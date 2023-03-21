@@ -38,7 +38,7 @@ Diffusion Model
 
 [DPM: Diffusion Probabilistic Models, Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585.pdf)
 
-[VAE: Variational Autoencoder, Auto-Encoding Variational Bayes] (https://arxiv.org/abs/1312.6114)
+[VAE: Variational Autoencoder, Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
 
 [VAE: An Introduction to Variational Autoencoders](https://arxiv.org/abs/1906.02691)
 
