@@ -30,7 +30,23 @@ Vision Transformer(ViT)  [Paper](https://arxiv.org/pdf/2010.11929.pdf)  [Leature
 
 U-Net [Paper](https://arxiv.org/pdf/1505.04597.pdf)  [Leature](https://youtu.be/oLvmLJkmXuc)
 
-Diffusion Model [Paper1](https://arxiv.org/pdf/1503.03585.pdf)  [Paper2](https://arxiv.org/pdf/2006.11239.pdf)  [Paper3](https://arxiv.org/pdf/2102.09672.pdf)  [Paper4](https://arxiv.org/pdf/2105.05233.pdf)  [Video](https://youtu.be/HoKDTa5jHvg)
+Diffusion Model 
+
+[DDPM: Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239.pdf)
+
+선행 논문
+
+[DPM: Diffusion Probabilistic Models, Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585.pdf)
+
+[VAE: Variational Autoencoder, Auto-Encoding Variational Bayes] (https://arxiv.org/abs/1312.6114)
+
+[VAE: An Introduction to Variational Autoencoders](https://arxiv.org/abs/1906.02691)
+
+후속 논문
+
+[Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2102.09672.pdf)
+
+[Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/pdf/2105.05233.pdf)
 
 ### 🔔커리큘럼
 주차별 세부 계획입니다. (변동 가능)
