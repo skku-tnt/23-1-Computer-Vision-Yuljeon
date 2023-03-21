@@ -1,0 +1,3 @@
+pre-train 된 모델을 가져와서 전이학습/fine-tuning을 해야 하는데
+아직 못했다
+뒤에 training 부분을 좀 바꿔야 하는데...
