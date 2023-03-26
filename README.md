@@ -48,6 +48,10 @@ Diffusion Model
 
 [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/pdf/2105.05233.pdf)
 
+강의
+
+https://youtu.be/HoKDTa5jHvg
+
 ### 🔔커리큘럼
 주차별 세부 계획입니다. (변동 가능)
 
